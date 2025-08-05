@@ -16,4 +16,4 @@ This is an interactive sales dashboard built in Power BI to analyze sales, profi
 - Data Modeling & Visual Design
 
 ## Screenshot
-![Dashboard Preview](dashboard-screenshot.png)
+![Dashboard Preview](https://github.com/terenceochuo/-ecommerce-powerbi-dashboard/blob/59eede1586143eee9e5639b26310c1c63dba3a96/dashboard-screenshot.png.PNG)
