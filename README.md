@@ -1,0 +1,19 @@
+# E-commerce Sales Dashboard
+
+This is an interactive sales dashboard built in Power BI to analyze sales, profit, and quantity trends across categories, regions, and shipping types.
+
+## Key Features
+- YTD Sales, Profit, Quantity, and Profit Margin
+- YoY and PY comparisons using DAX time intelligence
+- Sales by Category, State, and Region
+- Top & Bottom Products
+- Shipping method performance
+
+## Tools Used
+- Power BI Desktop
+- DAX
+- Time Intelligence Functions
+- Data Modeling & Visual Design
+
+## Screenshot
+![Dashboard Preview](dashboard-screenshot.png)
